@@ -71,4 +71,5 @@ if __name__ == '__main__':
 
     # Start polling
     print("Polling...")
+    
     app.run_polling(poll_interval=3)
